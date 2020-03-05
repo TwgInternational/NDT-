@@ -5,3 +5,4 @@ The general information below is intended to provide a basic description of NDT 
 Most certification programs are qualified by three NDT levels. NDT Level I, NDT Level II/NDT Level 2 and NDT Level III.     
 Being an NDT inspector or NDT supervisor, NDT Engineer, NDT co-coordinator is a good career for people not wanting to work every day at a desk in an office. NDT inspectors often work in the field of industrial warehouse, Oil Company, Gas Company, Petrol Company, Chemical Company, and Refinery using non-destructive methods to ensure that materials and assembly parts are safe and comply with safety standards. 
 
+
